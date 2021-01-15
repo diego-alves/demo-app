@@ -1,0 +1,9 @@
+apiVersion: backstage.io/1aplha1
+kind: Component
+metadata:
+  name: demo-app
+  description: Demo App
+spec:
+  type: service
+  lifecycle: experimental
+  owner: dfqalves@gmail.com
